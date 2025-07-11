@@ -197,6 +197,12 @@ h1 {
     display: none;
 }
 
+.foto-section {
+    width: 100%;
+    height: 100%;
+    padding: 0 8px;
+}
+
 .card {
     display: flex;
     flex-direction: column;
