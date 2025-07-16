@@ -36,9 +36,16 @@ ul {
     width: 100px;
 }
 
-.phone {
-    width: 20px;
-    height: 20px;
+/* .phone {
+    fill: #1e374e;
+} */
+
+.icon {
+    fill: #4682B4;
+}
+
+.footer-icon {
+    fill: white;
 }
 
 .phone-top {
@@ -214,6 +221,7 @@ h1 {
 .formats-text { 
     font-size: 20px;
 }
+
 
 .article-bottom {
     flex-direction: column;
